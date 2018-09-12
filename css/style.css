@@ -1,0 +1,43 @@
+.header{
+	/*border: 2px solid gray;*/
+	min-height: 100px;
+	margin-bottom: 5px;
+	background-color: gray;
+
+}
+
+.banner{
+	/*border: 2px solid gray;*/
+	min-height: 300px;
+	margin-bottom: 5px;
+	background-color: gray;
+}
+
+.body{
+	/*border: 2px solid gray;*/
+	min-height: 500px;
+	overflow: hidden;
+	margin-bottom: 5px;
+
+}
+
+.body_part{
+	min-height: 550px ;
+	background-color: gray;
+	width: 58%;
+	float: right;
+	margin: 5px;
+}
+
+.side_part{
+	min-height: 550px ;
+	background-color: gray;
+	width: 40%;
+	margin: 5px 10px;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: gray;
+
+}
